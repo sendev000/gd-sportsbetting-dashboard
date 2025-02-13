@@ -36,4 +36,15 @@ Online betting dashboard
 ```bash
 $ docker-compose up --build -d
 ```
+#### Run the project
+```bash
+http://localhost:3001
+```
+
 ### You can find the postman collections JSON file in backend folder
+
+```bash
+frontend : http://localhost:3001
+backend : http://localhost:4000
+db port : 5432
+```
