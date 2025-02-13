@@ -16,7 +16,9 @@ Online betting dashboard
 - Vite
 - Typescript
 - React
+- MUI
 - TailwindCss
+- Zustand
 ```
 
 ---
